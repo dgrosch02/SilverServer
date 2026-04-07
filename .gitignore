@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Logs
+*.log
+tracking_data.log
+
+# Models and Large Files
+*.pt
+models/
+
+# OS/Editor
+.DS_Store
+.vscode/
+.idea/
