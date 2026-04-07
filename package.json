@@ -1,0 +1,17 @@
+{
+  "name": "silvernorth-websocket-server",
+  "version": "1.0.0",
+  "description": "WebSocket server for sending location updates to SilverNorth app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "jimp": "^1.6.0",
+    "opencv4nodejs": "^6.2.0",
+    "ws": "^8.18.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
